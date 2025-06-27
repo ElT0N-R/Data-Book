@@ -40,6 +40,11 @@ Desenvolvido como parte do Trabalho de Conclusão de Curso (TCC), o projeto apli
 └── README.md
 ```
 
+---
+
+## 📷 Exemplo de Funcionamento
+
+![Formulário com autocompletar](./img/exemplo-formulario.gif)
 
 ---
 
@@ -57,7 +62,7 @@ Segundo testes com 15 usuários:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ElT0N-R/Data-Book
+   git clone https://github.com/ElT0N-R/Organo-Pessoas-Times.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador.
